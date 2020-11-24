@@ -1,0 +1,8 @@
+git push- adding you local changes to the remote repository 
+
+git pull- downloading commits that dont exist on your machine from a remote repository
+
+git merge - merges branches together to relect the changes made in each
+
+git clone- clone a repository into a new directory
+
